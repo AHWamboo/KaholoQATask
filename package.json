@@ -1,0 +1,23 @@
+{
+  "name": "kaholoqatask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe tests/mainPage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AHWamboo/KaholoQATask.git"
+  },
+  "author": "Bartosz Swierczek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AHWamboo/KaholoQATask/issues"
+  },
+  "homepage": "https://github.com/AHWamboo/KaholoQATask#readme",
+  "devDependencies": {
+    "testcafe": "^1.18.2",
+    "typescript": "^4.5.5"
+  }
+}
